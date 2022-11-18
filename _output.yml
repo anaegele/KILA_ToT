@@ -1,0 +1,8 @@
+bookdown::gitbook:
+  config:
+    fontsettings:
+      theme: white
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Transfer of Knowledge</a></li>
