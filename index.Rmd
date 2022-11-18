@@ -1,6 +1,6 @@
 ---
-title: "Transfer of Knowledge: Reading and Creating Risk Assessment Maps"
-author: "Institute of Forestry and Natural Resource Management (NRM), Tribhuvan University and Woodwell Climate Research Center"
+title: "Understanding Climate Risks for Evidence-based Planning"
+author: "Kerala Institute of Local Administration (KILA)and Woodwell Climate Research Center"
 site: bookdown::bookdown_site
 documentclass: book
 output:
@@ -10,7 +10,8 @@ output:
 ---
 # Home {-}
 ![](TU_and_Woodwell.jpg)
+<span style="color: #FF7733;">**CHANGE ME**</span> 
 
 **Linking risk assessments to their practical use**
 
-Risk assessment maps are useful and increasingly common; however, the technical knowledge needed to interpret these maps is a potential barrier to widespread implementation. Using risk maps to inform climate policy requires skills in map interpretation and a baseline understanding of uncertainty inherent in climate simulations. Therefore, fostering the right skill set to correctly read and interpret maps of climate risk factors is a crucial aspect of risk science communication. To address this need, skill transfer and capacity building are an integral part of this study. To address this need, Woodwell Climate Research Center and Institute of Forestry and NRM, Tribhuvan University intend to engage with students/academics who are interested in learning the risk mapping process and the basic skills needed for interpretation.
+Intro pragraph example: Risk assessment maps are useful and increasingly common; however, the technical knowledge needed to interpret these maps is a potential barrier to widespread implementation. Using risk maps to inform climate policy requires skills in map interpretation and a baseline understanding of uncertainty inherent in climate simulations. Therefore, fostering the right skill set to correctly read and interpret maps of climate risk factors is a crucial aspect of risk science communication. To address this need, skill transfer and capacity building are an integral part of this study. To address this need, Woodwell Climate Research Center and Institute of Forestry and Kerala Institute of Local Administration intend to engage with students/academics who are interested in learning the risk mapping process and the basic skills needed for interpretation.

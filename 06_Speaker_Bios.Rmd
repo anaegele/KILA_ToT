@@ -1,5 +1,7 @@
 # Speaker Bios
 
+<span style="color: #FF7733;">**CHANGE ME**</span> 
+
 ## Hosts {-}
 
 ![](Rajesh_Rai.png){width=300px}
